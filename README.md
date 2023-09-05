@@ -1,6 +1,6 @@
 # 简单介绍一下
 
-&emsp;&emsp;文件是一个单文件PHP应用程序，可以下降到你的服务器上的任何目录，立即创建文件和文件夹库。它支持所有文件类型，并允许您预览图像、视频、音频和代码。
+文件是一个单文件PHP应用程序，可以下降到你的服务器上的任何目录，立即创建文件和文件夹库。它支持所有文件类型，并允许您预览图像、视频、音频和代码。
 
 - 单个文件。只需将它放入服务器上的任何目录中即可。
 - 实时搜索和排序文件。
@@ -14,4 +14,4 @@
 
 # 安装教程
 
-&emsp;&emsp;🔗传送门：[https://www.qian.blue/archives/files_photo_gallery.html](https://www.qian.blue/archives/files_photo_gallery.html)
+- 🔗传送门：[https://www.skyqian.com/archives/files_photo_gallery.html](https://www.skyqian.com/archives/files_photo_gallery.html)
